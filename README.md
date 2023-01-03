@@ -6,18 +6,22 @@
 - Download Project Source code 
 - Download Dependencies 
 - Open new Terminal in src code file
-- ```python
+
+```python
 python drive_rover.py
 ```
 -Open simulator 
 
+
 ## To Test file
+- Open new Terminal in src code file
+
 ```python
 conda activate condaEnv
 ```
 ```python
 jupyter notebook
 ```
-Then open Test file
+- Then open Test file
 
 
